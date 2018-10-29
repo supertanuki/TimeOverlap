@@ -1,0 +1,23 @@
+{
+  "name": "Supertanuki/TimeOverlap",
+  "description": "Time overlap utilities",
+  "license": "MIT",
+  "keywords": [],
+  "authors": [],
+  "autoload": {
+    "psr-4": {
+      "Supertanuki\\TimeOverlap\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Supertanuki\\TimeOverlap\\Tests\\": "tests"
+    }
+  },
+  "require": {
+    "php": ">=7.1.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^7.0"
+  }
+}
